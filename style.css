@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url("pexels-photo-1103970.webp") no-repeat;
+    background-size: cover;
+}
+
+.rollno{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.rollno h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 40px 0;
+}
+.rollno p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.rollno input{
+    font-size: 16px;
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+.rollno h6{
+    padding:5px;
+    margin: 5px 0;
+    text-align: left;
+}
+.rollno button{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+    padding: 5px ;
+    width:35%;
+    background-color: rgb(215, 233, 250);
+    border-radius: 5px;
+    margin-left: 116px;
+    border: 0;
+
+}
